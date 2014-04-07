@@ -1,0 +1,24 @@
+{
+  "name": "prop",
+  "main": "index.js",
+  "authors": [
+    "Stephen Sawchuk <sawchuk@gmail.com>"
+  ],
+  "description": "Just a helper for plucking a property out of an object.",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "prop",
+    "property",
+    "pluck"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "index.js",
+    "package.json",
+    "readme.md"
+  ]
+}
