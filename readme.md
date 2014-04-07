@@ -57,15 +57,15 @@ Perhaps you're already using [Lo-Dash](http://lodash.com), [Underscore.js](http:
 
 #### Browser
 ```bash
-$ bower install --save prop
+$ bower install --save propprop
 ```
 ```html
-<script src="bower_components/prop/browser.js"></script>
+<script src="bower_components/propprop/browser.js"></script>
 ```
 
 #### Node.js
 ```bash
-$ npm install --save prop
+$ npm install --save propprop
 ```
 ```js
 var prop = require('propprop');
