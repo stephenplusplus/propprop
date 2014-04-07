@@ -68,7 +68,7 @@ $ bower install --save prop
 $ npm install --save prop
 ```
 ```js
-var prop = require('prop');
+var prop = require('propprop');
 ```
 
 
