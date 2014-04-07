@@ -1,9 +1,9 @@
 {
-  "name": "prop",
+  "name": "propprop",
   "version": "0.0.0",
   "author": "Stephen Sawchuk <sawchuk@gmail.com> (http://sawchuk.me)",
   "description": "Just a helper for plucking a property out of an object.",
-  "repository": "stephenplusplus/prop",
+  "repository": "stephenplusplus/propprop",
   "scripts": {
     "browser": "a=$npm_package_name; browserify -r ./index:$a -s $a index.js -o browser.js"
   },
