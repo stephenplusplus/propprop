@@ -1,6 +1,6 @@
 {
   "name": "propprop",
-  "main": "index.js",
+  "main": "browser.js",
   "authors": [
     "Stephen Sawchuk <sawchuk@gmail.com>"
   ],
