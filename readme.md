@@ -1,4 +1,4 @@
-# prop
+# propprop
 > pluck a property out of an object.
 
 
