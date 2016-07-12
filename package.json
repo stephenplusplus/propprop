@@ -1,7 +1,8 @@
 {
   "name": "propprop",
   "version": "0.3.0",
-  "author": "Stephen Sawchuk <sawchuk@gmail.com> (http://sawchuk.me)",
+  "author": "Stephen Sawchuk <sawchuk@gmail.com>",
+  "license": "MIT",
   "description": "Just a helper for plucking a property out of an object.",
   "repository": "stephenplusplus/propprop",
   "scripts": {
